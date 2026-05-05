@@ -2,7 +2,7 @@
 
 export default function Home() {
 
-  const whatsapp = "https://wa.me/91XXXXXXXXXX";
+  const whatsapp = "https://wa.me/919900004486";
   const call = "tel:+919900004486";
   const instagram = "https://www.instagram.com/accounts/login/?next=%2Ffitnationbanglore&source=omni_redirect";
   const map = "https://www.google.com/maps?q=13.1214443,77.622367";
